@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Armia Zaheer | Temparamental  
+# 👋 Hi, I'm Armia Zaheer  
 
 I’m an MBA candidate at **Vancouver Island University** and an **IBM-certified Business Analyst**, currently working on my Capstone Project for the IBM Business Analyst Professional Certificate.  
 I’m curious about how businesses grow — how structure, data, and human decisions come together to create measurable results.  
